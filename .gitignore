@@ -5,7 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
-toy_*.py
+
+# Toy learning examples
+Toy Examples
+
 # Virtual environments
 .venv
 git
